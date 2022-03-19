@@ -1,6 +1,6 @@
-### Hi there 👋
 
-   ## Hey <img src=https://user-images.githubusercontent.com/44526306/115236026-7ea64b00-a138-11eb-8cc3-6b5edf38ae2b.gif width="30px"> I am Rajnish
+
+   ## Hey there <img src=https://user-images.githubusercontent.com/44526306/115236026-7ea64b00-a138-11eb-8cc3-6b5edf38ae2b.gif width="30px"> I am Rajnish
    ## A 22 y/o Undergrad Student and a Passionate Fullstack Developer
   
 
