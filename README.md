@@ -37,7 +37,7 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 <br>
 <br>
-
+<hr>
 
 ![Rajnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajnisch&show_icons=true&theme=tokyonight)
 
